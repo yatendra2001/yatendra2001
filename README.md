@@ -1,7 +1,7 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Yatendra</h1>
-<h3 align="center">I'm a enthusiastic Android and IOS Developer from India and currently pursuing BTech in CSE. </h3>
+<h3 align="center">I'm a Android and IOS Developer from India and currently a CSE undergrad. </h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yatendra2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
