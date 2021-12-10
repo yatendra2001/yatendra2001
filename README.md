@@ -10,7 +10,7 @@
 
 - 👨‍💻 I’m currently contributing in **Flutter Organisations.**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **Data Structures, Algorithms and Blockchain.**
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
