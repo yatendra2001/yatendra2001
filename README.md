@@ -25,7 +25,7 @@
 <p align="left"> 
     <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
     <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>  
-    <a href="https://bloclibrary.dev/#/" target="_blank"> <img src="https://cdn.shopify.com/s/files/1/0561/0900/7035/products/kiss-cut-stickers-4x4-default-606a33ae7778f_grande.jpg?v=1617572823"/> </a>
+    <a href="https://bloclibrary.dev/#/" target="_blank"> <img src="https://cdn-icons-png.flaticon.com/512/2592/2592201.png"/> </a>
     <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
     <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
     <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a> 
