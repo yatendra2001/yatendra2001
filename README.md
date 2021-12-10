@@ -8,11 +8,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently contributing in **Open Source Projets.**
+- 👨‍💻 I’m currently contributing in **Flutter Organisations.**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects.**
+- 👯 I’m looking to collaborate on **Open Source Projects.**
 
 - 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/yatendra2001?tab=repositories).**
 
