@@ -52,8 +52,6 @@
 <br/>
 <br/>
 
-<a href="https://github.com/yatendra2001/github-readme-activity-graph"><img alt="Yatendra Kumar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=yatendra2001&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
 <br/>
 <br/>
 
