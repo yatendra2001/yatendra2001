@@ -46,11 +46,6 @@
 
   <br/>
     <a href="https://github.com/yatendra2001/github-readme-stats"><img alt="Yatendra Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yatendra2001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
- 
-  <br/>
-
-<br/>
-<br/>
 
 <br/>
 <br/>
