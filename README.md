@@ -51,6 +51,3 @@
 <a href = "https://twitter.com/Yatendr67513831"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
-
-## ❤ Views and Followers
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=yatendra2001.yatendra2001)
