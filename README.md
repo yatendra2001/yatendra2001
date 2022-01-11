@@ -53,7 +53,4 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/yatendra2001/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=yatendra2001">
-</a>
-<a href="https://github.com/yatendra2001?tab=followers"><img src="https://img.shields.io/github/followers/yatendra2001?label=Followers&style=social" alt="GitHub Badge"></a>
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=yatendra2001.yatendra2001)
