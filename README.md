@@ -53,7 +53,7 @@
 </p>
 
 ## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+<a href="https://github.com/yatendra2001/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Drontitan">
 </a>
 <a href="https://github.com/yatendra2001?tab=followers"><img src="https://img.shields.io/github/followers/yatendra2001?label=Followers&style=social" alt="GitHub Badge"></a>
