@@ -48,6 +48,6 @@
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yatendra-kumar-r2001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/Yatendr67513831"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/yatendrakumar27"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
