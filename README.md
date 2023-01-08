@@ -4,7 +4,7 @@
 <h3 align="center">I'm a Flutter based Cross-Platform Developer from India and currently a CSE undergrad. </h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yatendra2001&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=yatendra2001&theme=onedark&title=Joined,MultiLanguage,Commits,Repositories,PullRequest)](https://github.com/yatendra2001/github-profile-trophy)
 
 ## 🙋‍♂️ About Me
 
