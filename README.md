@@ -14,7 +14,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects.**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://github.com/yatendra2001?tab=repositories).**
+- 👨‍💻 All of my projects are available at **[My Portfolio](https://yatendrakumar.me/).**
 
 - 📫 How to reach me **yatendra2001kumar@gmail.com**.
 
@@ -47,7 +47,7 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/yatendra-kumar-r2001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/yatendra2001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 <a href = "https://twitter.com/yatendrakumar27"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
