@@ -1,48 +1,62 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
 <h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Yatendra</h1>
-<h3 align="center">I'm a Flutter based Cross-Platform Developer from India and currently a CSE undergrad. </h3>
+<h3 align="center">I'm a Flutter Developer from India and currently a CS undergrad. </h3>
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=yatendra2001&theme=onedark&title=MultiLanguage,Commits,Repositories,PullRequest,Followers,Joined2020)](https://github.com/yatendra2001/github-profile-trophy)
 
 ## 🙋‍♂️ About Me
 
-- 👨‍💻 I’m currently contributing in **Flutter Organisations.**
+I'm a **3rd year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ and a **passionate Flutter developer**. I've won numerous hackathons, including the **Smart India Hackathon** and **Ethforall Hackathon**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
 
-- 🌱 I’m currently learning **Data Structures, Algorithms and Blockchain.**
+🔭 Currently, I'm:
+- Contributing to Flutter Organizations
+- Learning Web3 & Blockchain
+- Exploring AI integration with apps
 
-- 👯 I’m looking to collaborate on **Open Source Projects.**
+🌟 My startup project "PIKC" was among the top 81 at the **Google Developers StartUp Bootcamp** (out of 1,500+).
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://yatendrakumar.me/).**
+🎧 Outside tech, I enjoy exploring science, listening to podcasts, and connecting with fellow developers and mentors.
 
-- 📫 How to reach me **yatendra2001kumar@gmail.com**.
+📫 Reach me at yatendra2001kumar@gmail.com. Let's create something amazing together!
 
-- ⚡ Fun fact **I read Books and have interest in many sports.**
+
+**
 
 ## 🚀 Languages and Tools:
 
 
-<p align="left">
-    <a href="https://flutter.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/flutter.png"/> </a>
-    <a href="https://dart.dev/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/dart.png"/> </a>  
-    <a href="https://www.python.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/python--v1.png"/> </a>
-    <a href="https://firebase.google.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/firebase.png"/> </a> 
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/xcode.png"/> </a> 
-    <a href="https://developer.android.com/studio?authuser=2" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio--v3.png"/> </a>     
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![BLoC](https://img.shields.io/badge/BLoC-61DAFB?style=for-the-badge&logo=flutter&logoColor=black)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![SQL/SQLite](https://img.shields.io/badge/SQL%2FSQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![XCode](https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white)
+![Git/GitHub](https://img.shields.io/badge/Git%2FGitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-8248E5?style=for-the-badge&logo=polygon&logoColor=white)
+![Mantle](https://img.shields.io/badge/Mantle-FF8200?style=for-the-badge&logo=mantle&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-3A2A78?style=for-the-badge&logo=flow&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-49A9E9?style=for-the-badge&logo=solana&logoColor=white)
 
-<!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
-<br/>
+
+
 
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/yatendra2001/github-readme-stats"><img alt="Yatendra Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yatendra2001&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/yatendra2001/github-readme-stats"><img alt="Yatendra Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yatendra2001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
 
 <br/>
-<br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatendra2001&layout=compact&theme=tokyonight)](https://github.com/yatendra2001/github-readme-stats)
 
 ## Connect with me:
 <p align="left">
