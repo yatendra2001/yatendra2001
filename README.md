@@ -41,10 +41,11 @@ I'm a **3rd year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ an
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
 ![Bitbucket](https://img.shields.io/badge/Bitbucket-2684FF?style=for-the-badge&logo=bitbucket&logoColor=white)
-![Polygon](https://img.shields.io/badge/Polygon-8248E5?style=for-the-badge&logo=polygon&logoColor=white)
-![Mantle](https://img.shields.io/badge/Mantle-FF8200?style=for-the-badge&logo=mantle&logoColor=white)
-![Flow](https://img.shields.io/badge/Flow-3A2A78?style=for-the-badge&logo=flow&logoColor=white)
-![Solana](https://img.shields.io/badge/Solana-49A9E9?style=for-the-badge&logo=solana&logoColor=white)
+![IPFS](https://img.shields.io/badge/IPFS-408A8D?style=for-the-badge&logo=ipfs&logoColor=white)
+![Polygon](https://img.shields.io/badge/Polygon-7B43DA?style=for-the-badge&logo=polygon&logoColor=white)
+![Mantle](https://img.shields.io/badge/Mantle-000000?style=for-the-badge&logo=mantle&logoColor=white)
+![Flow](https://img.shields.io/badge/Flow-3DDC84?style=for-the-badge&logo=flow&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-CA31F9?style=for-the-badge&logo=solana&logoColor=black)
 
 
 
