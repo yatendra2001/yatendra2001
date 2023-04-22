@@ -22,7 +22,6 @@ I'm a **3rd year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ an
 📫 Reach me at yatendra2001kumar@gmail.com. Let's create something amazing together!
 
 
-**
 
 ## 🚀 Languages and Tools:
 
