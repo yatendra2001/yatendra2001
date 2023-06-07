@@ -48,7 +48,7 @@ I'm a **3rd year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ an
 
 
 
-
+<!-- 
 ## 📊 My Github Stats
 
   <br/>
@@ -56,7 +56,7 @@ I'm a **3rd year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ an
 
 <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatendra2001&layout=compact&theme=tokyonight)](https://github.com/yatendra2001/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yatendra2001&layout=compact&theme=tokyonight)](https://github.com/yatendra2001/github-readme-stats) -->
 
 ## Connect with me:
 <p align="left">
