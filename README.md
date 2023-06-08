@@ -19,8 +19,11 @@ I'm a **3rd year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ an
 
 🎧 Outside tech, I enjoy exploring science, listening to podcasts, and connecting with fellow developers and mentors.
 
-📫 Reach me at yatendra2001kumar@gmail.com. Let's create something amazing together!
+💼 Checkout my portfolio here: [yatendrakumar.me](https://yatendrakumar.me/)
 
+📫 Reach me at yatendra2001kumar@gmail.com. 
+
+Let's create something epic together!
 
 
 ## 🚀 Languages and Tools:
