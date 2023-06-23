@@ -11,8 +11,8 @@
 I'm a **3rd year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ and a **passionate Flutter developer**. I've won numerous hackathons, including the **Smart India Hackathon** and **Ethforall Hackathon**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
 
 🔭 Currently, I'm:
-- Contributing to Flutter Organizations
-- Learning Web3 & Blockchain
+- Contributing to [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
+- Learning Rust.
 - Exploring AI integration with apps
 
 🌟 My startup project "PIKC" was among the top 81 at the **Google Developers StartUp Bootcamp** (out of 1,500+).
