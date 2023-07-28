@@ -8,20 +8,20 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **3rd year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ and a **passionate Flutter developer**. I've won numerous hackathons, including the **Smart India Hackathon** and **Ethforall Hackathon**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
+I'm a **final year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ and a **passionate coder**. I've won the **Smart India Hackathon 2022** and **Ethforall Hackathon 2023**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
 
 🔭 Currently, I'm:
 - Contributing to [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - Learning Rust.
-- Exploring AI integration with apps
+- Exploring AI, Web3, and AR/VR integration with apps
 
-🌟 My startup project "PIKC" was among the top 81 at the **Google Developers StartUp Bootcamp** (out of 1,500+).
+🌟 My maiden project [**PIKC**](https://pikc.carrd.co/) was shortlisted among **Top 81** startups for **Google Developers StartUp Bootcamp** (out of 1,500+).
+
+✍️ Over **1100+ coders** enjoy reading my knowledge bombs on **flutter, web3, ai** and coding in general on [The Dev Community](https://dev.to/yatendra2001).
 
 🎧 Outside tech, I enjoy exploring science, listening to podcasts, and connecting with fellow developers and mentors.
 
-💼 Checkout my portfolio here: [yatendrakumar.me](https://yatendrakumar.me/)
-
-📫 Reach me at yatendra2001kumar@gmail.com. 
+💼 Check out my portfolio here: [yatendrakumar.me](https://yatendrakumar.me/)
 
 Let's create something epic together!
 
