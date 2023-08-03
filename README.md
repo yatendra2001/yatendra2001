@@ -17,7 +17,7 @@ I'm a **final year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ 
 
 🌟 My maiden project [**PIKC**](https://pikc.carrd.co/) was shortlisted among **Top 81** startups for **Google Developers StartUp Bootcamp** (out of 1,500+).
 
-✍️ Over **1100+ coders** enjoy reading my knowledge bombs on **flutter, web3, ai** and coding in general on [The Dev Community](https://dev.to/yatendra2001).
+✍️ Over **1200+ coders** enjoy reading my knowledge bombs on **flutter, web3, ai** and coding in general on [The Dev Community](https://dev.to/yatendra2001).
 
 🎧 Outside tech, I enjoy exploring science, listening to podcasts, and connecting with fellow developers and mentors.
 
