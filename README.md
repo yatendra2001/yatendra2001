@@ -8,7 +8,7 @@
 
 ## 🙋‍♂️ About Me
 
-I'm a **final year CSE undergrad** at _Symbiosis Institute of Technology, Pune_ and a **passionate coder**. I've won the **Smart India Hackathon 2022** and **Ethforall Hackathon 2023**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
+I'm a **final year CSE undergrad** and a **passionate coder**. I've won the **Smart India Hackathon 2022** and **Ethforall Hackathon 2023**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
 
 🔭 Currently, I'm:
 - Contributing to [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
