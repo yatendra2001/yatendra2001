@@ -65,6 +65,6 @@ Let's create something epic together!
 <p align="left">
 
 <a href = "https://www.linkedin.com/in/yatendra2001/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://twitter.com/yatendrakumar27"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
+<a href = "https://twitter.com/iamyatendrak"><img src="https://img.icons8.com/fluent/48/000000/twitter.png"/></a>
 
 </p>
