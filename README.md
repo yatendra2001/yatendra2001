@@ -1,12 +1,8 @@
 <!-- <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a> -->
 
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, This is Yatendra</h1>
-<h3 align="center">I'm a Flutter Developer from India and currently a CS undergrad. </h3>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=yatendra2001&theme=onedark&title=MultiLanguage,Commits,Repositories,PullRequest,Followers,Joined2020)](https://github.com/yatendra2001/github-profile-trophy)
-
-## 🙋‍♂️ About Me
+## 🙋‍♂️ Who am I?
 
 I'm a **final year CSE undergrad** and a **passionate coder**. I've won the **Smart India Hackathon 2022** and **Ethforall Hackathon 2023**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
 
@@ -17,7 +13,7 @@ I'm a **final year CSE undergrad** and a **passionate coder**. I've won the **Sm
 
 🌟 My maiden project [**PIKC**](https://pikc.carrd.co/) was shortlisted among **Top 81** startups for **Google Developers StartUp Bootcamp** (out of 1,500+).
 
-✍️ Over **1200+ coders** enjoy reading my knowledge bombs on **flutter, web3, ai** and coding in general on [The Dev Community](https://dev.to/yatendra2001).
+✍️ Over **4000+ coders** enjoy reading my knowledge bombs on **flutter, web3, ai** and coding in general on [The Dev Community](https://dev.to/yatendra2001) and [LinkedIn](https://www.linkedin.com/in/yatendra2001/).
 
 🎧 Outside tech, I enjoy exploring science, listening to podcasts, and connecting with fellow developers and mentors.
 
