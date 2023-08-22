@@ -2,13 +2,14 @@
 
 
 
-## 🙋‍♂️ Who am I?
+## 🙋‍♂️ Hey Wassupp?
 
 I'm a **final year CSE undergrad** and a **passionate coder**. I've won the **Smart India Hackathon 2022** and **Ethforall Hackathon 2023**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
 
 🔭 Currently, I'm:
 - Contributing to [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - Learning Rust.
+- Doing Freelancing gigs.
 - Exploring AI, Web3, and AR/VR integration with apps
 
 🌟 My maiden project [**PIKC**](https://pikc.carrd.co/) was shortlisted among **Top 81** startups for **Google Developers StartUp Bootcamp** (out of 1,500+).
