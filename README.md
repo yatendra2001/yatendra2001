@@ -2,28 +2,28 @@
 
 
 
-## 🙋‍♂️ Hey Wassupp?
+## Hey Wassupp?
 
 I'm a **final year CSE undergrad** and a **passionate coder**. I've won the **Smart India Hackathon 2022** and **Ethforall Hackathon 2023**. I'm also an **EY Scholar 2022** (Top 12/20,000+).
 
-🔭 Currently, I'm:
+Currently, I'm:
 - Contributing to [AppFlowy](https://github.com/AppFlowy-IO/AppFlowy)
 - Learning Rust.
 - Doing Freelancing gigs.
 - Exploring AI, Web3, and AR/VR integration with apps
 
-🌟 My maiden project [**PIKC**](https://pikc.carrd.co/) was shortlisted among **Top 81** startups for **Google Developers StartUp Bootcamp** (out of 1,500+).
+My maiden project [**PIKC**](https://pikc.carrd.co/) was shortlisted among **Top 81** startups for **Google Developers StartUp Bootcamp** (out of 1,500+).
 
-✍️ Over **4000+ coders** enjoy reading my knowledge bombs on **flutter, web3, ai** and coding in general on [The Dev Community](https://dev.to/yatendra2001) and [LinkedIn](https://www.linkedin.com/in/yatendra2001/).
+Over **4000+ coders** enjoy reading my knowledge bombs on **flutter, web3, ai** and coding in general on [The Dev Community](https://dev.to/yatendra2001) and [LinkedIn](https://www.linkedin.com/in/yatendra2001/).
 
-🎧 Outside tech, I enjoy exploring science, listening to podcasts, and connecting with fellow developers and mentors.
+Outside tech, I enjoy exploring science, listening to podcasts, and connecting with fellow developers and mentors.
 
-💼 Check out my portfolio here: [yatendrakumar.me](https://yatendrakumar.me/)
+Check out my work here: [yatendrakumar.me](https://yatendrakumar.me/)
 
 Let's create something epic together!
 
 
-## 🚀 Languages and Tools:
+## Languages and Tools:
 
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
@@ -49,7 +49,7 @@ Let's create something epic together!
 
 
 <!-- 
-## 📊 My Github Stats
+## My Github Stats
 
   <br/>
     <a href="https://github.com/yatendra2001/github-readme-stats"><img alt="Yatendra Kumar's Github Stats" src="https://github-readme-stats.vercel.app/api?username=yatendra2001&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" /></a>
